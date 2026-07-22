@@ -93,14 +93,14 @@ I work across the complete lifecycle of an intelligent product: **data preparati
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ibadat-Ali86&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;icon_color=46D9FF&amp;rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ibadat-Ali86&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=456F00&amp;text_color=1F2937&amp;icon_color=007B9E&amp;rank_icon=github">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ibadat-Ali86&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;icon_color=46D9FF&amp;rank_icon=github" alt="Ibadat Ali GitHub statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibadat-Ali86&amp;theme=github_dark&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;icon_color=46D9FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibadat-Ali86&amp;theme=github&amp;title_color=456F00&amp;text_color=1F2937&amp;icon_color=007B9E">
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibadat-Ali86&amp;theme=github_dark&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;icon_color=46D9FF" alt="Ibadat Ali GitHub public statistics">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadat-Ali86&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B8FF29&amp;text_color=E6EDF3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadat-Ali86&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=456F00&amp;text_color=1F2937">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadat-Ali86&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=B8FF29&amp;text_color=E6EDF3" alt="Most used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibadat-Ali86&amp;theme=github_dark&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;chart_color=46D9FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibadat-Ali86&amp;theme=github&amp;title_color=456F00&amp;text_color=1F2937&amp;chart_color=007B9E">
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ibadat-Ali86&amp;theme=github_dark&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;chart_color=46D9FF" alt="Languages across Ibadat Ali's public repositories">
   </picture>
 </p>
 
