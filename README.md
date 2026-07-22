@@ -63,6 +63,7 @@ I work across the complete lifecycle of an intelligent product: **data preparati
 | **SentinelIQ** | NASA turbofan remaining-useful-life forecasting with anomaly detection and maintenance planning. | PyTorch · TCN/LSTM · SHAP · FastAPI · Next.js · Docker | [Live](https://sentinel-iq-nasa.vercel.app) · [Source](https://github.com/Ibadat-Ali86/sentinel-iq-cmpass-nasa-rul-prediction) |
 | **TopoLite-KD** | Lightweight topology-aware knowledge distillation for COVID-19 CT-slice research. | PyTorch · GUDHI · Persistent Homology · Grad-CAM | [Source](https://github.com/Ibadat-Ali86/TopoLite-KD-Efficient-Topology-Aware-Knowledge-Distillation-for-COVID-19-CT-Slice-Classification) |
 | **AdaptIQ / ForecastAI** | Retail forecasting workflow with scenarios, confidence ranges, monitoring, and reports. | Prophet · XGBoost · SARIMA · LSTM · FastAPI · React | [Live](https://huggingface.co/spaces/ibadatali/walmart-sales-forecasting-saas) · [Source](https://github.com/Ibadat-Ali86/Demand-Sales-Walmart-Forecasting) |
+| **Evershine Academy** | Multi-campus academy and learning-management platform for admissions, attendance, academics, finance, reporting, and role-based portals. | Next.js · TypeScript · Prisma · MySQL · RBAC | [Live](https://evershineacadmey.com/) |
 
 <p align="center">
   <a href="https://ibadat-ali-portfolio.vercel.app/#featured"><strong>Explore the full project atlas →</strong></a>
