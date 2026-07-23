@@ -93,6 +93,18 @@ I work across the complete lifecycle of an intelligent product: **data preparati
 ## `> github_signal`
 
 <p align="center">
+  <sub><strong>LIVE CONTRIBUTION TRAIL</strong> · REAL ACTIVITY · REFRESHED DAILY</sub>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibadat-Ali86/Ibadat-Ali86/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibadat-Ali86/Ibadat-Ali86/output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/Ibadat-Ali86/Ibadat-Ali86/output/github-contribution-grid-snake-dark.svg" alt="Animated trail through Ibadat Ali's GitHub contribution history">
+  </picture>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibadat-Ali86&amp;theme=github_dark&amp;title_color=B8FF29&amp;text_color=E6EDF3&amp;icon_color=46D9FF">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibadat-Ali86&amp;theme=github&amp;title_color=456F00&amp;text_color=1F2937&amp;icon_color=007B9E">
